@@ -1,3 +1,7 @@
 _Toby Cordero's Project Links_
 
-Project 1
+__Project 1__
+
+Main Project
+Trello
+Figma
