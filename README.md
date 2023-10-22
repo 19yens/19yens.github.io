@@ -2,7 +2,7 @@
 
 ## __Project 1__
 
-1. [Main Project]
+1. [Main Project](https://19yens.github.io/Project01.Github.io/)
 2. [Trello](https://trello.com/b/kdeNosEL/project-1-tracksheet)
 3. [Figma](https://www.figma.com/file/d38QjQXfJVdZadTl6PnKnH/Project-1-Prototype?type=design&node-id=31-2&mode=design&t=exArZgFFQc2dLj6A-0)
 
