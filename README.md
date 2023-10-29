@@ -17,4 +17,4 @@
 ## __Project 3__
 1. Main Project
 2. [Trello](https://trello.com/b/Se0E7Nq6/project-3-tracksheet)
-3. Figma
+3. [Figma](https://www.figma.com/file/CJsdleB3l8LduBb3PXxE9h/Project-3-Prototype?type=design&node-id=0-1&mode=design&t=S6M8xLn8KyJKSWp3-0)
